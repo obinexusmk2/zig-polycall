@@ -22,6 +22,7 @@ Add the package to your project's `build.zig.zon`:
 ```bash
 zig fetch --save \
   https://github.com/obinexus/zig-polycall/archive/<TAG>.tar.gz
+  https://github.com/obinexus/zig-polycall/archive/refs/tags/v0.2.0.zip
 ```
 
 Replace `<TAG>` with a specific release tag or commit SHA — **never use `#HEAD`**, as the hash changes with every push and will break reproducible builds.
