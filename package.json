@@ -1,0 +1,25 @@
+{
+  "name": "@obinexusltd/zig-polycall",
+  "version": "0.1.0",
+  "description": "Zig bindings for [libpolycall-v2](https://github.com/obinexus/libpolycall) — The World first polyglot protocol runtime.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "src": "src"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obinexusmk2/zig-polycall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/obinexusmk2/zig-polycall/issues"
+  },
+  "homepage": "https://github.com/obinexusmk2/zig-polycall#readme"
+}
